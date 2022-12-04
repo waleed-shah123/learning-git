@@ -1,0 +1,7 @@
+How to add files in .gitignore
+1. goto bash shell
+2. open git local repository
+3. check git status
+4. untracked files in if any
+5. create .ignore file by running touch .gitignore command
+ 
